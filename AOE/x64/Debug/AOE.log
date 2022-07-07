@@ -1,0 +1,26 @@
+﻿Init.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "public: void __cdecl Manager::Load_Texture(void)" (?Load_Texture@Manager@@QEAAXXZ)
+Init.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "public: void __cdecl Manager::Load_Texture(void)" (?Load_Texture@Manager@@QEAAXXZ)
+Init.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "public: bool __cdecl Manager::Init_Window_Game(void)" (?Init_Window_Game@Manager@@QEAA_NXZ)
+Init.obj : error LNK2019: unresolved external symbol SDL_GetKeyboardState referenced in function "public: void __cdecl Manager::Handle_Event(bool &)" (?Handle_Event@Manager@@QEAAXAEA_N@Z)
+Init.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "public: void __cdecl Manager::Handle_Event(bool &)" (?Handle_Event@Manager@@QEAAXAEA_N@Z)
+Init.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "public: bool __cdecl Manager::Init_Window_Game(void)" (?Init_Window_Game@Manager@@QEAA_NXZ)
+Init.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function "public: void __cdecl Manager::Load_Texture(void)" (?Load_Texture@Manager@@QEAAXXZ)
+Init.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "public: void __cdecl Manager::Draw_Slection(struct SDL_Rect)" (?Draw_Slection@Manager@@QEAAXUSDL_Rect@@@Z)
+Init.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "public: bool __cdecl Manager::Init_Window_Game(void)" (?Init_Window_Game@Manager@@QEAA_NXZ)
+Init.obj : error LNK2019: unresolved external symbol SDL_RenderDrawLine referenced in function "public: void __cdecl Manager::Draw_Slection(struct SDL_Rect)" (?Draw_Slection@Manager@@QEAAXUSDL_Rect@@@Z)
+Init.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: void __cdecl Manager::Load_Image(int,int,int,int,int,int,struct SDL_Rect &,struct SDL_Rect &,struct SDL_Rect &,struct SDL_Rect &,struct SDL_Rect &)" (?Load_Image@Manager@@QEAAXHHHHHHAEAUSDL_Rect@@0000@Z)
+Common_Function.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+Civilizations.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+Init.obj : error LNK2019: unresolved external symbol SDL_RenderCopyEx referenced in function "public: void __cdecl Manager::Load_Image(int,int,int,int,int,int,struct SDL_Rect &,struct SDL_Rect &,struct SDL_Rect &,struct SDL_Rect &,struct SDL_Rect &)" (?Load_Image@Manager@@QEAAXHHHHHHAEAUSDL_Rect@@0000@Z)
+Init.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "public: void __cdecl Manager::Render_List(void)" (?Render_List@Manager@@QEAAXXZ)
+Init.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced in function "public: void __cdecl Manager::Render_List(void)" (?Render_List@Manager@@QEAAXXZ)
+Game_Object.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+Init.obj : error LNK2019: unresolved external symbol SDL_Delay referenced in function "public: void __cdecl Manager::Handle_Event(bool &)" (?Handle_Event@Manager@@QEAAXAEA_N@Z)
+Init.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: bool __cdecl Manager::Init_Window_Game(void)" (?Init_Window_Game@Manager@@QEAA_NXZ)
+Init.obj : error LNK2019: unresolved external symbol IMG_Init referenced in function "public: bool __cdecl Manager::Init_Window_Game(void)" (?Init_Window_Game@Manager@@QEAA_NXZ)
+Init.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "public: void __cdecl Manager::Load_Texture(void)" (?Load_Texture@Manager@@QEAAXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\SDL2-2.0.10\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\SDL2-2.0.10\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\SDL2_image-2.0.5\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\TRAISTORM BC\OneDrive\hocc_Visual\AOE\x64\Debug\AOE.exe : fatal error LNK1120: 19 unresolved externals

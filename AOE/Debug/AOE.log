@@ -1,0 +1,68 @@
+﻿  Init.cpp
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Common_Function.h(186,2): warning C4091: 'typedef ': ignored on left of 'Button_Details' when no variable is declared
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Common_Function.h(190,2): warning C4091: 'typedef ': ignored on left of 'Button_List' when no variable is declared
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(214,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(238,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(286,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(304,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(328,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(345,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(786,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(788,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(790,22): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(961,27): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(966,29): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(971,99): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(998,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1002,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1060,27): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1065,29): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1070,99): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1095,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1115,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1119,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1127,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1133,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1154,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1159,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1165,22): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1177,22): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1189,22): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1218,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1788,25): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1790,26): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1796,28): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1825,25): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1827,26): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1833,28): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1857,25): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(1865,28): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2041,26): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2061,28): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2077,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2088,207): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2089,207): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2121,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2037,17): warning C4101: 'Test_Convert_Iso': unreferenced local variable
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2280,22): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2343,61): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2349,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2351,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2353,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2380,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2387,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2389,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2416,32): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2418,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2422,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2424,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2449,32): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2451,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2455,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2457,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2487,20): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2521,32): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2523,21): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2555,32): warning C4018: '<': signed/unsigned mismatch
+E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\AOE\Init.cpp(2557,21): warning C4018: '<': signed/unsigned mismatch
+  AOE.vcxproj -> E:\oneDriveHust\OneDrive - Hanoi University of Science and Technology\AOE\Debug\AOE.exe
